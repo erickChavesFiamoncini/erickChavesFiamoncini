@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erickChavesFiamoncini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=pt-br&hide_border=false&custom_title=Estat%C3%ADsticas" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=erickChavesFiamoncini&locale=pt-br&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickChavesFiamoncini&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=ocean_dark&hide_border=false&custom_title=Dor%20de%20cabe%C3%A7a" height="150" alt="languages graph"  />
 </div>
 
