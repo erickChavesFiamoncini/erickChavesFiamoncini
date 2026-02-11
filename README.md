@@ -1,4 +1,4 @@
-<h2 align="center">Oi! Eu sou o Erick, e este é o meu GitHub 👋😴</h2>
+<h2 align="center">Oi! Eu sou o Erick, e este é o meu GitHub</h2>
 
 ###
 
